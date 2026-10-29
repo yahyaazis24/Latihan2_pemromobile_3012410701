@@ -1,17 +1,4 @@
-# tugasp2_3012410701
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#file1
+<img width="1356" height="767" alt="image" src="https://github.com/user-attachments/assets/e4690957-fbb0-4c1a-9c2f-7c3591cd075d" />
+#file2
+<img width="1363" height="767" alt="image" src="https://github.com/user-attachments/assets/f326b9ef-962b-4d2e-b0b2-95b15679e546" />
